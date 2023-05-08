@@ -15,7 +15,7 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
-ruta_json = "C:\\Users\\Sergio\\Documents\\SGdataconsulting\\Artículos para blog\\caída bancaria\\listabancaria.json"
+ruta_json = "C:\\Users\\....json"
 
 # Leer el archivo JSON con pandas
 df = pd.read_json(ruta_json)
